@@ -22,13 +22,13 @@
 									<h1><a href="#" id="logo">Halcyonic</a></h1>
 
 								<!-- Nav -->
-									<!--<nav id="nav">
+									<nav id="nav">
 										<a href="index.php">Homepage</a>
 										<a href="threecolumn.html">Three Column</a>
 										<a href="twocolumn1.html">Two Column #1</a>
 										<a href="twocolumn2.html">Two Column #2</a>
 										<a href="onecolumn.html">One Column</a>
-									</nav>-->
+									</nav>
 
 							</div>
 						</div>
